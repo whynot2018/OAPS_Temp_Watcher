@@ -7,3 +7,7 @@ if [ -d /root/myopenaps ]; then
 	bash /root/themp.sh
 fi
 ```
+```
+chmod u+x themp.sh
+```
+
