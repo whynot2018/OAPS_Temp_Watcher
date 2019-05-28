@@ -4,6 +4,6 @@ Raspberry pi ZeroW temperature tracker just add those lines under /root/.bashrc 
 and add
 ```
 if [ -d /root/myopenaps ]; then
-	bash /root/temp.sh
+	bash /root/themp.sh
 fi
 ```
