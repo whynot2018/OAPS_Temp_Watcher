@@ -1,4 +1,5 @@
-# OAPS_Temp_Watcher
+# OAPS_Temp_Tracker
+
 Raspberry pi ZeroW temperature tracker just add those lines under /root/.bashrc with
 `$ sudo nano /root/.bashrc`
 and add
