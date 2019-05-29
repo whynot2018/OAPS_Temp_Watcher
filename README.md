@@ -12,3 +12,6 @@ fi
 chmod u+x themp.sh
 ```
 
+```
+*/15 * * * * cd /root && themp.sh >> /var/log/openaps/temp-loop.log 2>&1
+```
